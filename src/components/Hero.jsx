@@ -7,7 +7,7 @@ const Hero = () => {
             <img src={logo} alt="summarizer_logo" className='w-40 object-contain' />
 
             <button type="button"
-            onClick={() => window.open('https://github.com/kodepirate')}
+            onClick={() => window.open('https://github.com/kodepirate/Ai-Summarizer')}
             className = "black_btn"
             >
                 <span className="text-white">View on Github</span>
