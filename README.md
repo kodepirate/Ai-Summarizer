@@ -10,10 +10,10 @@ Install the required dependencies by running pip install -r requirements.txt.
 Run the application by running python app.py.
 Note: The AI Summarizer requires Python 3.6 or later.
 
-Usage
+# Usage
 To use the AI Summarizer, simply enter a long paragraph of text into the application and click the "Summarize" button. The application will automatically generate a summary of the text, which you can then view and copy to your clipboard.
 
-Contributing
+  # Contributing
 We welcome contributions from anyone who is interested in improving the AI Summarizer. Here are some ways you can contribute:
 
 Help us improve the accuracy of the summarization algorithm by submitting bug reports or suggesting new features.
@@ -21,5 +21,5 @@ Write unit tests and integration tests to improve the reliability of the applica
 Improve the user interface by contributing to the front-end code.
 Translate the application into other languages to make it more accessible to non-English speakers.
 To contribute, simply fork the repository, make your changes, and submit a pull request. We'll review your changes and merge them into the main branch if they meet our quality standards.
-
-Thank you for your interest in the AI Summarizer!
+**
+Thank you** for your interest in the AI Summarizer!
