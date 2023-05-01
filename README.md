@@ -21,5 +21,5 @@ Write unit tests and integration tests to improve the reliability of the applica
 Improve the user interface by contributing to the front-end code.
 Translate the application into other languages to make it more accessible to non-English speakers.
 To contribute, simply fork the repository, make your changes, and submit a pull request. We'll review your changes and merge them into the main branch if they meet our quality standards.
-**
-Thank you** for your interest in the AI Summarizer!
+
+**Thank you** for your interest in the AI Summarizer!
